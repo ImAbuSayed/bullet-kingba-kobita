@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bullet-kingba-kobita/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Bullet Kingba Kobita](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bullet-kingba-kobita/) |
+| **Get License** | [Request Licensing for Bullet Kingba Kobita](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bullet-kingba-kobita/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7564cd9d3f3f16c314aeb88f9eee2162c16b03a9e8b5e71ec2b6e373c20ef417` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
