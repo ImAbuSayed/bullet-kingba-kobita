@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bullet-kingba-kobita/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Bullet Kingba Kobita](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bullet-kingba-kobita/) |
+| **Get License** | [Official Music Licensing for Bullet Kingba Kobita](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bullet-kingba-kobita/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধার চিরে আসুক তোমার আলোর ইশারা
+> বুকের ভেতর ভাঙছে যেন অচিন কিনারা
+> অসীম শূন্যে ভাসি আমি তোমার ছায়ার খোঁজে
+> আমার এ মন তোমায় ছাড়া আর কিছুই না বোঝে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
